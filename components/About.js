@@ -18,7 +18,7 @@ const About = () => {
         <div>
           <div className="max-w-[800px]">
             <h2 className="font-bold  mb-10 text-[30px]">
-              I am Kevine Nzapdi a Technical Writer
+              I am Lolita Gold a Technical Writer
             </h2>
             <p className="text-gray-600 text-[20px] mb-5">
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem
